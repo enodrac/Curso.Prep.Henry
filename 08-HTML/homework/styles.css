@@ -1,4 +1,8 @@
-body{background-color: rgb(70, 70, 70);}
+
+body{
+    background-color: rgb(70, 70, 70);
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATYAAACiCAMAAAD84hF6AAAAkFBMVEX//wEAAACFhgCCggBYWACZmQCmpgGUlAEAAAPm5gGQkAHs7AF4eAF9fQHDwwHR0QGsrAG5uAENDQHW1gJKSgLz8wEYFwH6+gG2tgE9PQGrqwHKygHc3QHr6wE0NAGiogFQTwEuLgFqagEgIQIlJgFgXwEHCQFDQwMzMwEpKgEcHAFVVQFwcAHa2gEiIgFcXAIyTYo2AAAEFElEQVR4nO3d6XaiMACGYUGBqIjiUtdq63S1dXr/dzcu9bQOJJDPGGP7PT/mjxXMeyhLqEylQkREREREREREdG6du5qGu0C1rFBvWamtMZ5B5GmpqpZV1VtWaGuMZ2Aym89szKbEbBBmgzAbhNkgzAZhNgizQZgNwmwQZoMwG4TZIMwGYTYIs0GYDcJsEGaDMBuE2SDMBmE2CLNBmA3CbBBmgzAbhNkgzAZhNgizQZgNwmwQZoMwG4TZIMwGYTYIs0GYDcJsEGaDOJit6XeFFzfPMFhz3MsWCbF7uXeO4ZriXLaB39+9KjyXtzfnsm2k+9fvzY/WGBezVXr7Hwh601GwsZhO68YHfhons+V8KjFfhjPTg8e5ma0peUucmB4/yMlswz/SN4mG8QQIJ7OpFzQwHkGfk9k8oXibmBuPoO9i2YS3kC1nUPBWBx4gcpFsD/OWP0qkv2xF2T7MZ9BlM5vovsZ+mgyKdk5F2cYGxw+ykW2zp/qIw7Re9mpJdvpxcGNg3Cc6d7bHuJPUh3qfqWhr658yYDPOkm07h9FfTtKZZq+DlfpDdLClmmQ6m/Ceao2wd9rsxbPqBMR7OWnZZpjMFvSjkZFZsrEq2yu4CRtlMpsxsfwD/MCLK2NS6dbmOzJ36WS2yk3uhjYPXfj93HEzWz1zVSoeorWddZeima1l6WPVu5+1dv+OW+mtpRWXVD6b8MRyYW2CdX/qFk4mo7VrE+JbZbJtz17fosTm3nh/UHizuEY9JbK9tEbWZ/Gfdmue2l5taQXZ3oLpBY5ew/lu5c/211yWPNvqvXOhW0Xh/kAgHDlHy5Of7fWih67O8/YIOnfo/l5GJpt4qMrnXc257fSlk+KbV5PUpbO0rONsf6tWjpe9xv3m6Pwj/lBLiDi1sjNJ4s+T2GvPtjmRfZxYOakcdD6+LpuuOVtjc5yP2lZWNQvGR3uEa86WjOzc5G77mVmNa85mw3C7O8tOoTGbwmD0KJl0ZDaZ285dfjJmk6ov1HegmC1rFs1VyZgtx7qxUm5nzJbV9rvFyZjtSNtX/kkfs+WY+aWTMduXlk40Zjv4Rd/wM4nZIMwGYTYIs0GYDcJsEGaTUd6oYbZcdd+LVa8zW9Zgce/xOSCa0tr+Kp3ZymvH4nDjidlKug2evk2hMVspaV8czTsyW7FeKzPtyGwFBou8W0/MptRe5s9vM5tcc7GS3UhhNpn2UjFUZss1XKi/OcxsOdbvRXfsmC0jVX5pmNnyDMt9Z43Zvpu9lxwqs32Z1koPldkOknHxCJntP+0yf4nGbP9r6A2V2facfOyd+5gNwmwQZoMwG4TZIMwGYTYIs0GYDcJsEM1rUuWDyKp6y1I8B8R50yjQECn/vwLNZdl5sAERERERERER0S/yD/zbSrTrCAmZAAAAAElFTkSuQmCC);
+}
 h1{color: red;}
 img{width: 400px;}
 #thirdDiv{
@@ -11,4 +15,12 @@ img{width: 400px;}
 #spanId{
     font-size: 18px;
     margin: 50px;
+    color: rgb(114, 161, 202);
+}
+
+.container{
+    display: inline-block;
+}
+.center{
+    text-align: center;
 }
