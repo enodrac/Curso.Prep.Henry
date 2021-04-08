@@ -18,9 +18,8 @@ img{width: 400px;}
     color: rgb(114, 161, 202);
 }
 
-.container{
-    display: inline-block;
-}
-.center{
-    text-align: center;
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
